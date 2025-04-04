@@ -5,7 +5,9 @@ Um formulário de cadastro com os campos: **Nome**, **E-mail** e **Senha**. Feit
 
 Ao enviar as informações o JS, através da função alert( ), mostra as informações enviadas na tela.
 
-## Como visualizar:
+O programa também faz a validação da senha e e-mail digitados. Caso esteja incorreto, aparece um alert( ) para o usuário.
+
+## 🗂️ Como visualizar:
 
 Para ver o resultado você pode baixar os aquivos através do botão **Add file** acima dos arquivos do repositório 
 e depois selecionar o **Upload files**.
